@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/api/auth/route": "/api/auth",
+  "/api/contact/route": "/api/contact",
+  "/api/health/route": "/api/health",
+  "/api/inquiries/route": "/api/inquiries",
+  "/favicon.ico/route": "/favicon.ico",
+  "/admin/page": "/admin",
+  "/page": "/"
+}
